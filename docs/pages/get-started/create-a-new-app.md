@@ -16,7 +16,7 @@ If you have not installed any of these tools, go back to the [Installation](/get
 
 <Terminal cmd={[
 '# Create a project named my-app',
-'$ npx create-expo-app my-app',
+'$ npx create-expo-app my-app or expo init my-app (recommended)',
 '',
 '# Navigate to the project directory',
 '$ cd my-app'
